@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+body {
+	font-size: 12px;
+	background-color:;
+}
+
+.form {
+	border: solid #F1F1F1 1px;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px;
+	border-radius: 4px 4px 0px 0px;
+	background-color: #F67011;
+}
+
+.form-01 {
+	border: solid #F1F1F1 1px;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px;
+	border-radius: 4px 4px 0px 0px;
+	background-color: #595959;
+}
+
+.form-group {
+	margin-bottom: 1px;
+}
